@@ -27,6 +27,17 @@
       <scope>provided</scope>
     </dependency>
 
+    <!--If your project has errors with the latest jakarta.servlet libraries
+        you can use the classic javax.servlet library.
+        Also you need to use Tomcat v8.5 with javax.servlet -->
+    <!--
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>javax.servlet-api</artifactId>
+      <version>4.0.1</version>
+      <scope>provided</scope>
+    </dependency>
+    -->
     <!--Add jsp dependencies-->
     <dependency>
       <groupId>jakarta.servlet.jsp</groupId>

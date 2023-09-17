@@ -1,0 +1,13 @@
+/Users/carloszegarra/workspace-simplilearn-java/simplilearn-01-estore/src/main/java/com/simplilearn/estore/admin/model/Users.java
+/Users/carloszegarra/workspace-simplilearn-java/simplilearn-01-estore/src/main/java/com/simplilearn/estore/enduser/dao/OrderDAO.java
+/Users/carloszegarra/workspace-simplilearn-java/simplilearn-01-estore/src/main/java/com/simplilearn/estore/admin/model/Categories.java
+/Users/carloszegarra/workspace-simplilearn-java/simplilearn-01-estore/src/main/java/com/simplilearn/estore/enduser/model/Cart.java
+/Users/carloszegarra/workspace-simplilearn-java/simplilearn-01-estore/src/main/java/com/simplilearn/estore/admin/model/OrderItems.java
+/Users/carloszegarra/workspace-simplilearn-java/simplilearn-01-estore/src/main/java/com/simplilearn/estore/enduser/service/OrderService.java
+/Users/carloszegarra/workspace-simplilearn-java/simplilearn-01-estore/src/main/java/com/simplilearn/estore/admin/model/Admins.java
+/Users/carloszegarra/workspace-simplilearn-java/simplilearn-01-estore/src/main/java/com/simplilearn/estore/enduser/dao/IOrderDAO.java
+/Users/carloszegarra/workspace-simplilearn-java/simplilearn-01-estore/src/main/java/com/simplilearn/estore/admin/model/Products.java
+/Users/carloszegarra/workspace-simplilearn-java/simplilearn-01-estore/src/main/java/com/simplilearn/estore/admin/model/Orders.java
+/Users/carloszegarra/workspace-simplilearn-java/simplilearn-01-estore/src/main/java/com/simplilearn/estore/admin/model/Shipments.java
+/Users/carloszegarra/workspace-simplilearn-java/simplilearn-01-estore/src/main/java/com/simplilearn/estore/enduser/service/IOrderService.java
+/Users/carloszegarra/workspace-simplilearn-java/simplilearn-01-estore/src/main/java/com/simplilearn/estore/enduser/model/Wishlist.java
