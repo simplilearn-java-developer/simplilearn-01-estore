@@ -19,32 +19,25 @@
 
   <dependencies>
 
-    <!--Add servlet dependencies -->
-    <dependency>
-      <groupId>jakarta.servlet</groupId>
-      <artifactId>jakarta.servlet-api</artifactId>
-      <version>6.0.0</version>
-      <scope>provided</scope>
-    </dependency>
-
-    <!--If your project has errors with the latest jakarta.servlet libraries
-        you can use the classic javax.servlet library.
-        Also you need to use Tomcat v8.5 with javax.servlet -->
-    <!--
+    <!-- Add servlet dependencies-->
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>javax.servlet-api</artifactId>
       <version>4.0.1</version>
       <scope>provided</scope>
     </dependency>
-    -->
-    <!--Add jsp dependencies-->
+
+    <!-- Add jsp dependencies-->
     <dependency>
-      <groupId>jakarta.servlet.jsp</groupId>
-      <artifactId>jakarta.servlet.jsp-api</artifactId>
-      <version>3.1.1</version>
+      <groupId>javax.servlet.jsp</groupId>
+      <artifactId>javax.servlet.jsp-api</artifactId>
+      <version>2.3.3</version>
       <scope>provided</scope>
     </dependency>
+
+    <!--If your project has errors with the latest jakarta.servlet libraries
+        you can use the classic javax.servlet library.
+        Also you need to use Tomcat v8.5 with javax.servlet -->
 
     <dependency>
       <groupId>junit</groupId>
